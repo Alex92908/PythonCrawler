@@ -95,9 +95,10 @@ class Search_On_Bili(object):
             if os.path.exists(path):
                 try:
                     new_path = urllib.parse.unquote(path)
-                    os.rename(path, new_path)
-                    if os.path.exists(path):
-                        os.remove(path)
+                    if new_path != path:
+                        os.rename(path, new_path)
+                        if os.path.exists(path):
+                            os.remove(path)
                 except:
                     print("文件名替换失败")
 
