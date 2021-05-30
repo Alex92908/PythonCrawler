@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ae3e59e-a603-430f-841c-cc315e3be874" name="Default Changelist" comment="" />
+    <list default="true" id="0ae3e59e-a603-430f-841c-cc315e3be874" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download_bilibili_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_bilibili_video.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="download_bilibili_video" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -46,6 +49,10 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0ae3e59e-a603-430f-841c-cc315e3be874" name="Default Changelist" comment="" />
@@ -53,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622368350143</updated>
-      <workItem from="1622368353243" duration="960000" />
+      <workItem from="1622368353243" duration="3710000" />
+      <workItem from="1622374063710" duration="23000" />
     </task>
     <servers />
   </component>

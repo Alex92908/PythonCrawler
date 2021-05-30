@@ -33,6 +33,7 @@ class SearchOnBili:
     """
     SearchOnBili docstring
     """
+
     def __init__(self, keyword):
         """
         init
