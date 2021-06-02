@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ae3e59e-a603-430f-841c-cc315e3be874" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/download_bilibili_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_bilibili_video.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +61,25 @@
       <updated>1622368350143</updated>
       <workItem from="1622368353243" duration="3710000" />
       <workItem from="1622374063710" duration="23000" />
+      <workItem from="1622396934346" duration="164000" />
+      <workItem from="1622474299480" duration="500000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonCrawler$download_bilibili_video.coverage" NAME="download_bilibili_video Coverage Results" MODIFIED="1622369103743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
